@@ -2,7 +2,8 @@
 > [1x.engineer](https://1x.engineer) website, re-imagined.
 <img alt="screenshot of rendered new website" width="300" height="auto" align="right" src="https://user-images.githubusercontent.com/2109385/96351196-bf100800-10c6-11eb-967d-06b0aa4ed315.png" />
 
-[See this version on Vercel](https://1x-engineer.ehsaan.vercel.app/)
+* [See this version on Vercel](https://1x-engineer.ehsaan.vercel.app/)
+* [Discussion](https://github.com/cutenode/1x.engineer/issues/146)
 
 The *1x engineer* is by far one of the most heart-warming and awesome things I've ever read in Software industry. Though, I didn't like the appearance of the website.
 I thought of a better version.
